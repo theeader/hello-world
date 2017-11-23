@@ -1,2 +1,5 @@
 # hello-world
-a place for practice
+
+
+I'm Theo.
+I like football and learning to code.
